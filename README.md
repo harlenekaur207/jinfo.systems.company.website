@@ -1,6 +1,6 @@
-# JInfo Systems LLC Website
+# Jinfo Systems LLC Website
 
-Company website for JInfo Systems LLC, featuring company information, AI projects, contact options, and meeting requests.
+Company website for Jinfo Systems LLC, featuring company information, AI projects, contact options, and meeting requests.
 
 ## View locally
 
